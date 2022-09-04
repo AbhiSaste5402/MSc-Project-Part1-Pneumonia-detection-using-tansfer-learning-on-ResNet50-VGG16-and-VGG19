@@ -1,1 +1,1 @@
-# Pneumonia-detection-using-tansfer-learning-on-ResNet50
+# Pneumonia-detection-using-tansfer-learning-on-ResNet50.
